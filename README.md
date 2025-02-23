@@ -11,10 +11,9 @@ Welcome to Smart CNAM , an old data science project developed for my final year 
 - Session-Based authentication (Login and Register)
 - SMTP Integration
 - Gunicorn Deployment script
-- **MIT License**
 - SB Admin 2 Dashboard Theme
 - Illustration from [Undraw.co](https://undraw.co/)
-- Support
+
 
 ### Prerequisites
 
